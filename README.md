@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-GPL--3.0-orange)](./LICENSE)
 [![Docker](https://img.shields.io/badge/GHCR-viperconnect-blue)](https://github.com/ViperTecCorporation/ViperConnect/pkgs/container/viperconnect)
 
-Gateway de API para WhatsApp mantido pela ViperTec Corporation.
+Gateway de API para WhatsApp mantido pela ViperTec Corporation. 
 
 </div>
 
